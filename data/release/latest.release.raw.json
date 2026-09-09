@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1836194,
       "digest": "sha256:f80e55ac197a2a8bf4612496175fd2badaa1413e736f7815af987fa532ba59a9",
-      "download_count": 538,
+      "download_count": 539,
       "created_at": "2026-03-16T13:07:32Z",
       "updated_at": "2026-03-16T13:07:33Z",
       "browser_download_url": "https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1663136,
       "digest": "sha256:0c92cd86862af20ce7a70a23432b0876170f2768fd0a80ad305cdbdfc5acfea7",
-      "download_count": 169,
+      "download_count": 170,
       "created_at": "2026-03-16T13:07:32Z",
       "updated_at": "2026-03-16T13:07:32Z",
       "browser_download_url": "https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-arm64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4411554,
       "digest": "sha256:c264bbcb6b30fa6418bbfce2087d0e1ecdc7ad17421772c0f002e4cbf8cf4bd7",
-      "download_count": 6046,
+      "download_count": 6088,
       "created_at": "2026-03-16T13:07:31Z",
       "updated_at": "2026-03-16T13:07:31Z",
       "browser_download_url": "https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-linux-amd64"
