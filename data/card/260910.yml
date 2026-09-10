@@ -7,7 +7,7 @@ about:
   latestVersion: "0.8.6"
   latestRelease: "0.8.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:10:51Z
+  collectedAt: 2026-09-10T20:49:30Z
 timeline:
   created: 2024-11-12
   lastCommit: 2026-05-06
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-16
   lastPrerelease: 
 popularity:
-  star: 1402
+  star: 1401
   watcher: 8
   fork: 34
   release: 23
@@ -87,7 +87,7 @@ total:
   commit: 817
 ---
 path: /home/runner/.x-repo/github.com/Lifailon/lazyjournal
-collectedAt: 2026-09-10T05:10:53Z
+collectedAt: 2026-09-10T20:49:32Z
 loc:
   Go:
     code: 10542
