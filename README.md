@@ -38,7 +38,7 @@ Total: **11,031** lines of code across **14** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,401 · **Forks**: 34 · **Open issues**: 43 · **Contributors**: 7
+- **Stars**: 1,401 · **Forks**: 33 · **Open issues**: 43 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **11,031** lines of code across **14** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-12 | 0 | 0 | 2 | 0 | 4 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 4 | 0 |
-| last180d | 2026-03-14 | 1 | 10 | 3 | 3 | 5 | 26 |
-| 360d | 2025-09-15 | 6 | 19 | 3 | 14 | 5 | 322 |
-| last720d | 2024-09-20 | 23 | 23 | 3 | 38 | 5 | 817 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 2 | 0 | 4 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 2 | 0 | 4 | 0 |
+| last180d | 2026-03-15 | 1 | 10 | 3 | 3 | 5 | 26 |
+| 360d | 2025-09-16 | 6 | 19 | 3 | 14 | 5 | 322 |
+| last720d | 2024-09-21 | 23 | 23 | 3 | 38 | 5 | 817 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for lazyjournal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:01:28Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:26:13Z._
