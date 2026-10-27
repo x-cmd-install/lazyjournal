@@ -33,27 +33,27 @@ Total: **11,806** lines of code across **19** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.8.6` (2026-03-16)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-26
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 1,432 · **Forks**: 36 · **Open issues**: 46 · **Contributors**: 11
+- **Stars**: 1,431 · **Forks**: 36 · **Open issues**: 46 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 29 · **Open PRs**: 0 · **Closed issues**: 42 · **Open issues**: 4 · **Commits**: 830
+- **Releases**: 23 · **Merged PRs**: 30 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 4 · **Commits**: 838
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 2 | 0 | 1 | 2 | 3 |
-| last60d | 2026-08-27 | 0 | 3 | 0 | 2 | 2 | 4 |
-| 90d | 2026-07-28 | 0 | 5 | 0 | 4 | 3 | 5 |
-| last180d | 2026-04-29 | 0 | 12 | 0 | 7 | 4 | 9 |
-| 360d | 2025-10-31 | 5 | 25 | 0 | 16 | 4 | 300 |
-| last720d | 2024-11-05 | 23 | 29 | 0 | 42 | 4 | 830 |
+| 30d | 2026-09-27 | 0 | 3 | 1 | 1 | 2 | 10 |
+| last60d | 2026-08-28 | 0 | 4 | 1 | 2 | 2 | 11 |
+| 90d | 2026-07-29 | 0 | 6 | 1 | 4 | 3 | 12 |
+| last180d | 2026-04-30 | 0 | 13 | 1 | 7 | 4 | 16 |
+| 360d | 2025-11-01 | 5 | 26 | 1 | 16 | 4 | 307 |
+| last720d | 2024-11-06 | 23 | 30 | 1 | 42 | 4 | 838 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for lazyjournal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:04:06Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:30:46Z._
