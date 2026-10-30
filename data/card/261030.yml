@@ -1,0 +1,139 @@
+about:
+  description: "TUI for viewing logs from journald, auditd, file system, Docker and Podman containers, Compose stacks and Kubernetes pods with support for log highlighting and several filtering modes."
+  license: MIT
+  homepage: https://pkg.go.dev/github.com/Lifailon/lazyjournal
+  head: eba97d4
+  archived: false
+  latestVersion: "0.8.6"
+  latestRelease: "0.8.6"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T06:11:29Z
+timeline:
+  created: 2024-11-12
+  lastCommit: 2026-10-29
+  lastVersion: 2026-03-16
+  lastRelease: 2026-03-16
+  lastPrerelease: 
+popularity:
+  star: 1435
+  watcher: 8
+  fork: 36
+  release: 23
+  contributor: 11
+  pullRequest: 39
+  issue: 46
+language:
+  Go: 463852
+  Shell: 4322
+  Makefile: 4076
+  Dockerfile: 2843
+  PowerShell: 2320
+totalBytes: 477413
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 0
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 2
+    openIssue: 1
+    commit: 24
+  last60d:
+    since: 2026-08-31
+    release: 0
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 2
+    openIssue: 1
+    commit: 25
+  last90d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 5
+    openIssue: 2
+    commit: 26
+  last180d:
+    since: 2026-05-03
+    release: 0
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 7
+    openIssue: 3
+    commit: 30
+  last360d:
+    since: 2025-11-04
+    release: 5
+    mergedPR: 30
+    openPR: 0
+    closedIssue: 17
+    openIssue: 3
+    commit: 321
+  last720d:
+    since: 2024-11-09
+    release: 23
+    mergedPR: 34
+    openPR: 0
+    closedIssue: 43
+    openIssue: 3
+    commit: 856
+total:
+  release: 23
+  mergedPR: 34
+  openPR: 0
+  closedIssue: 43
+  openIssue: 3
+  commit: 856
+---
+path: /home/runner/.x-repo/github.com/Lifailon/lazyjournal
+collectedAt: 2026-10-30T06:11:32Z
+loc:
+  Go:
+    code: 11404
+    comments: 1115
+    blanks: 529
+    files: 7
+  Yaml:
+    code: 202
+    comments: 35
+    blanks: 4
+    files: 6
+  Makefile:
+    code: 97
+    comments: 6
+    blanks: 48
+    files: 1
+  Sh:
+    code: 82
+    comments: 2
+    blanks: 15
+    files: 3
+  Dockerfile:
+    code: 55
+    comments: 4
+    blanks: 15
+    files: 2
+  PowerShell:
+    code: 42
+    comments: 0
+    blanks: 6
+    files: 1
+  Json:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 424
+    blanks: 134
+    files: 4
+total:
+  code: 11935
+  comments: 1595
+  blanks: 755
+  files: 25
+---
+
+---
