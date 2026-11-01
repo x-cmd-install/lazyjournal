@@ -48,12 +48,12 @@ Total: **11,905** lines of code across **19** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 7 | 0 | 3 | 0 | 27 |
-| last60d | 2026-09-01 | 0 | 8 | 0 | 3 | 0 | 28 |
-| 90d | 2026-08-02 | 0 | 9 | 0 | 6 | 0 | 29 |
-| last180d | 2026-05-04 | 0 | 11 | 0 | 9 | 1 | 33 |
-| 360d | 2025-11-05 | 5 | 30 | 0 | 19 | 1 | 324 |
-| last720d | 2024-11-10 | 23 | 34 | 0 | 45 | 1 | 859 |
+| 30d | 2026-10-02 | 0 | 7 | 0 | 1 | 0 | 26 |
+| last60d | 2026-09-02 | 0 | 8 | 0 | 3 | 0 | 28 |
+| 90d | 2026-08-03 | 0 | 9 | 0 | 6 | 0 | 28 |
+| last180d | 2026-05-05 | 0 | 11 | 0 | 8 | 1 | 31 |
+| 360d | 2025-11-06 | 5 | 30 | 0 | 19 | 1 | 324 |
+| last720d | 2024-11-11 | 23 | 34 | 0 | 45 | 1 | 859 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for lazyjournal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:00:30Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:31:12Z._
