@@ -32,56 +32,58 @@ x install lazyjournal
 
 ## 发布
 
-- **最新版本**: `0.8.6` (2026-03-16)
-- **最近提交**: 2026-11-03
-- **Release 含资产**: 12 个
+- **最新版本**: `0.8.7` (2026-11-05)
+- **最近提交**: 2026-11-05
+- **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 1,438 · **Fork**: 35 · **开放 issue**: 46 · **贡献者**: 11
+- **Star**: 1,440 · **Fork**: 35 · **开放 issue**: 47 · **贡献者**: 11
 
 ## 累计统计
 
-- **发布数**: 23 · **已合并 PR**: 35 · **开放 PR**: 1 · **已关闭 issue**: 45 · **开放 issue**: 1 · **提交数**: 861
+- **发布数**: 24 · **已合并 PR**: 35 · **开放 PR**: 0 · **已关闭 issue**: 46 · **开放 issue**: 1 · **提交数**: 865
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 8 | 1 | 1 | 0 | 27 |
-| last60d | 2026-09-06 | 0 | 9 | 1 | 3 | 0 | 29 |
-| 90d | 2026-08-07 | 0 | 10 | 1 | 5 | 0 | 29 |
-| last180d | 2026-05-09 | 0 | 12 | 1 | 7 | 0 | 32 |
-| 360d | 2025-11-10 | 5 | 31 | 1 | 19 | 1 | 325 |
-| last720d | 2024-11-15 | 23 | 35 | 1 | 45 | 1 | 848 |
+| 30d | 2026-10-07 | 1 | 8 | 0 | 0 | 1 | 31 |
+| last60d | 2026-09-07 | 1 | 9 | 0 | 3 | 1 | 33 |
+| 90d | 2026-08-08 | 1 | 10 | 0 | 5 | 1 | 33 |
+| last180d | 2026-05-10 | 1 | 12 | 0 | 7 | 1 | 36 |
+| 360d | 2025-11-11 | 6 | 31 | 0 | 20 | 1 | 329 |
+| last720d | 2024-11-16 | 24 | 35 | 0 | 46 | 1 | 849 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [lazyjournal-0.8.6-amd64.deb](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-amd64.deb) | 1.8 MiB | `other` |
-| [lazyjournal-0.8.6-arm64.deb](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-arm64.deb) | 1.6 MiB | `other` |
-| [lazyjournal-0.8.6-darwin-amd64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-darwin-amd64) | 4.2 MiB | `native/darwin/x64` |
-| [lazyjournal-0.8.6-darwin-arm64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-darwin-arm64) | 4.0 MiB | `native/darwin/arm64` |
-| [lazyjournal-0.8.6-freebsd-amd64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-freebsd-amd64) | 4.1 MiB | `other` |
-| [lazyjournal-0.8.6-freebsd-arm64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-freebsd-arm64) | 3.9 MiB | `other` |
-| [lazyjournal-0.8.6-linux-amd64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-linux-amd64) | 4.2 MiB | `native/linux/x64` |
-| [lazyjournal-0.8.6-linux-arm64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-linux-arm64) | 4.0 MiB | `native/linux/arm64` |
-| [lazyjournal-0.8.6-openbsd-amd64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-openbsd-amd64) | 4.1 MiB | `other` |
-| [lazyjournal-0.8.6-openbsd-arm64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-openbsd-arm64) | 3.9 MiB | `other` |
-| [lazyjournal-0.8.6-windows-amd64.exe](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-windows-amd64.exe) | 4.4 MiB | `native/win/x64` |
-| [lazyjournal-0.8.6-windows-arm64.exe](https://github.com/Lifailon/lazyjournal/releases/download/0.8.6/lazyjournal-0.8.6-windows-arm64.exe) | 4.0 MiB | `native/win/arm64` |
+| [lazyjournal-0.8.7-amd64.deb](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-amd64.deb) | 2.0 MiB | `other` |
+| [lazyjournal-0.8.7-arm64.deb](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-arm64.deb) | 1.8 MiB | `other` |
+| [lazyjournal-0.8.7-darwin-amd64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-darwin-amd64) | 4.8 MiB | `native/darwin/x64` |
+| [lazyjournal-0.8.7-darwin-arm64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-darwin-arm64) | 4.5 MiB | `native/darwin/arm64` |
+| [lazyjournal-0.8.7-freebsd-amd64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-freebsd-amd64) | 4.8 MiB | `other` |
+| [lazyjournal-0.8.7-freebsd-arm64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-freebsd-arm64) | 4.4 MiB | `other` |
+| [lazyjournal-0.8.7-linux-amd64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-linux-amd64) | 4.8 MiB | `native/linux/x64` |
+| [lazyjournal-0.8.7-linux-arm64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-linux-arm64) | 4.6 MiB | `native/linux/arm64` |
+| [lazyjournal-0.8.7-openbsd-amd64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-openbsd-amd64) | 4.8 MiB | `other` |
+| [lazyjournal-0.8.7-openbsd-arm64](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-openbsd-arm64) | 4.4 MiB | `other` |
+| [lazyjournal-0.8.7-windows-amd64.exe](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-windows-amd64.exe) | 5.1 MiB | `native/win/x64` |
+| [lazyjournal-0.8.7-windows-arm64.exe](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-windows-arm64.exe) | 4.7 MiB | `native/win/arm64` |
+| [lazyjournal-0.8.7.tar.gz](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7.tar.gz) | 3.1 MiB | `native/unknown` |
+| [lazyjournal-0.8.7.tar.gz.asc](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7.tar.gz.asc) | 833 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/lazyjournal) 上共有 **17** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/lazyjournal) 上共有 **17** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Debian unstable | `0.8.6` | ✅ latest |
-| Debian 14 | `0.8.6` | ✅ latest |
-| Homebrew | `0.8.6` | ✅ latest |
-| Nix unstable | `0.8.6` | ✅ latest |
+| Debian unstable | `0.8.6` | ⚠️ outdated |
+| Debian 14 | `0.8.6` | ⚠️ outdated |
+| Homebrew | `0.8.7` | ✅ latest |
+| Nix unstable | `0.8.6` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -92,4 +94,4 @@ lazyjournal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T07:21:32Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T07:05:59Z._
