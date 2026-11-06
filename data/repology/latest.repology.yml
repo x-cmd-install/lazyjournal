@@ -1,12 +1,12 @@
-- repo: kali_rolling
-  subrepo: main
+- repo: debian_14
+  subrepo: forky/main
   srcname: lazyjournal
   binnames:
     - lazyjournal
   visiblename: lazyjournal
   version: 0.8.6
   origversion: 0.8.6-1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - fierroviejo@fierroviejo.com
@@ -20,7 +20,7 @@
   visiblename: lazyjournal
   version: 0.8.6
   origversion: 0.8.6-alt2
-  status: newest
+  status: outdated
   summary: Terminal user interface for journalctl
   maintainers:
     - zerospirit@altlinux.org
@@ -36,7 +36,7 @@
   visiblename: lazyjournal
   version: 0.8.6
   origversion: 0.8.6-alt3
-  status: newest
+  status: outdated
   summary: Terminal user interface for journalctl
   maintainers:
     - zerospirit@altlinux.org
@@ -48,8 +48,8 @@
   srcname: lazyjournal
   binname: lazyjournal
   visiblename: lazyjournal
-  version: 0.8.6
-  origversion: 0.8.6-1
+  version: 0.8.7
+  origversion: 0.8.7-1
   status: newest
   summary: TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering with fuzzy find and regex support
   maintainers:
@@ -60,28 +60,14 @@
   srcname: lazyjournal-bin
   binname: lazyjournal-bin
   visiblename: lazyjournal-bin
-  version: 0.8.6
-  origversion: 0.8.6-1
+  version: 0.8.7
+  origversion: 0.8.7-1
   status: newest
   summary: TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering with fuzzy find and regex support
   maintainers:
     - dominiquini@aur
   licenses:
     - MIT
-- repo: debian_14
-  subrepo: forky/main
-  srcname: lazyjournal
-  binnames:
-    - lazyjournal
-  visiblename: lazyjournal
-  version: 0.8.6
-  origversion: 0.8.6-1
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - fierroviejo@fierroviejo.com
-  categories:
-    - admin
 - repo: debian_unstable
   subrepo: sid/main
   srcname: lazyjournal
@@ -90,7 +76,7 @@
   visiblename: lazyjournal
   version: 0.8.6
   origversion: 0.8.6-1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - fierroviejo@fierroviejo.com
@@ -104,7 +90,7 @@
   visiblename: lazyjournal
   version: 0.8.6
   origversion: 0.8.6-1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - fierroviejo@fierroviejo.com
@@ -113,7 +99,7 @@
 - repo: homebrew
   srcname: lazyjournal
   visiblename: lazyjournal
-  version: 0.8.6
+  version: 0.8.7
   origversion: null
   status: newest
   summary: TUI for logs from journalctl, file system, Docker, Podman and Kubernetes pods
@@ -124,6 +110,20 @@
   origversion: null
   status: rolling
   summary: TUI for logs from journalctl, file system, Docker, Podman and Kubernetes pods
+- repo: kali_rolling
+  subrepo: main
+  srcname: lazyjournal
+  binnames:
+    - lazyjournal
+  visiblename: lazyjournal
+  version: 0.8.6
+  origversion: 0.8.6-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - fierroviejo@fierroviejo.com
+  categories:
+    - admin
 - repo: nix_stable_25_05
   srcname: lazyjournal
   visiblename: lazyjournal
@@ -162,7 +162,7 @@
   visiblename: lazyjournal
   version: 0.8.6
   origversion: null
-  status: newest
+  status: outdated
   summary: TUI for journalctl, file system logs, as well as Docker and Podman containers
   maintainers:
     - hi@pluie.me
@@ -176,7 +176,7 @@
   visiblename: lazyjournal
   version: 0.8.6
   origversion: 0.8.6-1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - fierroviejo@fierroviejo.com
