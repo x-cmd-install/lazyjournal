@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2120694,
       "digest": "sha256:795560865f4f1111bf9ad153aaef32962d9aa47291f38bc9da43afdbb3e66611",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-11-05T16:28:56Z",
       "updated_at": "2026-11-05T16:28:56Z",
       "browser_download_url": "https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1913448,
       "digest": "sha256:dda55aafc4e4b5dd4e83e16f7b439936594976dcdada585299c34aafb6a1087a",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-05T16:28:55Z",
       "updated_at": "2026-11-05T16:28:56Z",
       "browser_download_url": "https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-arm64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4741122,
       "digest": "sha256:be9714253cca6e767c8a473f6dba92e4fb2f1f5c322c31d7e6c4947e13f6ac02",
-      "download_count": 35,
+      "download_count": 41,
       "created_at": "2026-11-05T16:28:52Z",
       "updated_at": "2026-11-05T16:28:53Z",
       "browser_download_url": "https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-darwin-arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5079200,
       "digest": "sha256:e6f322d764450386ee24581965e9e3c4aad12b3fe926a9fcdc070619bc8d5b2b",
-      "download_count": 374,
+      "download_count": 476,
       "created_at": "2026-11-05T16:28:54Z",
       "updated_at": "2026-11-05T16:28:54Z",
       "browser_download_url": "https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-linux-amd64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4784288,
       "digest": "sha256:45ac79b7c74bf5de19682f9dc1a769bdb136185f1cc9031de8c924a7d75ec83f",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-05T16:28:54Z",
       "updated_at": "2026-11-05T16:28:55Z",
       "browser_download_url": "https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-linux-arm64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4653339,
       "digest": "sha256:8bd7d20a6469b46c3d5a7374ccee234cede3ee038fc320dc88346a0370e67f90",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T16:28:52Z",
       "updated_at": "2026-11-05T16:28:53Z",
       "browser_download_url": "https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-openbsd-arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5352448,
       "digest": "sha256:6e52b9daf78096a00dc783616690485d1817dd61bb7cece16e84143ebfb925ba",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-05T16:28:54Z",
       "updated_at": "2026-11-05T16:28:54Z",
       "browser_download_url": "https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7-windows-amd64.exe"

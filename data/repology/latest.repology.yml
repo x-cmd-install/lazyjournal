@@ -1,17 +1,3 @@
-- repo: debian_14
-  subrepo: forky/main
-  srcname: lazyjournal
-  binnames:
-    - lazyjournal
-  visiblename: lazyjournal
-  version: 0.8.6
-  origversion: 0.8.6-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - fierroviejo@fierroviejo.com
-  categories:
-    - admin
 - repo: alt_p11
   srcname: lazyjournal
   binnames:
@@ -68,6 +54,20 @@
     - dominiquini@aur
   licenses:
     - MIT
+- repo: debian_14
+  subrepo: forky/main
+  srcname: lazyjournal
+  binnames:
+    - lazyjournal
+  visiblename: lazyjournal
+  version: 0.8.6
+  origversion: 0.8.6-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - fierroviejo@fierroviejo.com
+  categories:
+    - admin
 - repo: debian_unstable
   subrepo: sid/main
   srcname: lazyjournal
@@ -214,3 +214,17 @@
     - MIT
   categories:
     - System/Servers
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: lazyjournal
+  binnames:
+    - lazyjournal
+  visiblename: lazyjournal
+  version: 0.8.6
+  origversion: 0.8.6-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - fierroviejo@fierroviejo.com
+  categories:
+    - universe/admin
