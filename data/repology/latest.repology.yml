@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: lazyjournal
-  visiblename: lazyjournal
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: TUI for logs from journalctl, file system, Docker, Podman and Kubernetes pods
 - repo: alt_p11
   srcname: lazyjournal
   binnames:
@@ -81,20 +74,6 @@
   binnames:
     - lazyjournal
   visiblename: lazyjournal
-  version: 0.8.6
-  origversion: 0.8.6-1
-  status: legacy
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - fierroviejo@fierroviejo.com
-  categories:
-    - admin
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: lazyjournal
-  binnames:
-    - lazyjournal
-  visiblename: lazyjournal
   version: 0.8.7
   origversion: 0.8.7-1
   status: newest
@@ -124,6 +103,13 @@
   origversion: null
   status: newest
   summary: TUI for logs from journalctl, file system, Docker, Podman and Kubernetes pods
+- repo: homebrew
+  srcname: lazyjournal
+  visiblename: lazyjournal
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: TUI for logs from journalctl, file system, Docker, Podman and Kubernetes pods
 - repo: kali_rolling
   subrepo: main
   srcname: lazyjournal
@@ -138,6 +124,28 @@
     - fierroviejo@fierroviejo.com
   categories:
     - admin
+- repo: nix_stable_25_05
+  srcname: lazyjournal
+  visiblename: lazyjournal
+  version: 0.7.3
+  origversion: null
+  status: outdated
+  summary: TUI for journalctl, file system logs, as well as Docker and Podman containers
+  maintainers:
+    - hi@pluie.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: lazyjournal
+  visiblename: lazyjournal
+  version: 0.8.1
+  origversion: null
+  status: outdated
+  summary: TUI for journalctl, file system logs, as well as Docker and Podman containers
+  maintainers:
+    - hi@pluie.me
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: lazyjournal
   visiblename: lazyjournal
@@ -152,9 +160,9 @@
 - repo: nix_unstable
   srcname: lazyjournal
   visiblename: lazyjournal
-  version: 0.8.6
+  version: 0.8.7
   origversion: null
-  status: outdated
+  status: newest
   summary: TUI for journalctl, file system logs, as well as Docker and Podman containers
   maintainers:
     - hi@pluie.me
@@ -220,25 +228,3 @@
     - fierroviejo@fierroviejo.com
   categories:
     - universe/admin
-- repo: nix_stable_25_05
-  srcname: lazyjournal
-  visiblename: lazyjournal
-  version: 0.7.3
-  origversion: null
-  status: outdated
-  summary: TUI for journalctl, file system logs, as well as Docker and Podman containers
-  maintainers:
-    - hi@pluie.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: lazyjournal
-  visiblename: lazyjournal
-  version: 0.8.1
-  origversion: null
-  status: outdated
-  summary: TUI for journalctl, file system logs, as well as Docker and Podman containers
-  maintainers:
-    - hi@pluie.me
-  licenses:
-    - MIT
