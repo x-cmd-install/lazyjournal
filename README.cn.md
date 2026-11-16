@@ -38,7 +38,7 @@ x install lazyjournal
 
 ## 流行度
 
-- **Star**: 1,451 · **Fork**: 38 · **开放 issue**: 47 · **贡献者**: 12
+- **Star**: 1,452 · **Fork**: 38 · **开放 issue**: 47 · **贡献者**: 12
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install lazyjournal
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 15 | 0 | 1 | 0 | 51 |
-| last60d | 2026-09-16 | 1 | 16 | 0 | 4 | 0 | 52 |
-| 90d | 2026-08-17 | 1 | 17 | 0 | 5 | 0 | 53 |
-| last180d | 2026-05-19 | 1 | 20 | 0 | 8 | 0 | 56 |
-| 360d | 2025-11-20 | 6 | 39 | 0 | 21 | 0 | 333 |
-| last720d | 2024-11-25 | 23 | 43 | 0 | 47 | 0 | 856 |
+| 30d | 2026-10-17 | 1 | 15 | 0 | 1 | 0 | 51 |
+| last60d | 2026-09-17 | 1 | 16 | 0 | 4 | 0 | 52 |
+| 90d | 2026-08-18 | 1 | 17 | 0 | 5 | 0 | 53 |
+| last180d | 2026-05-20 | 1 | 20 | 0 | 8 | 0 | 56 |
+| 360d | 2025-11-21 | 6 | 39 | 0 | 21 | 0 | 333 |
+| last720d | 2024-11-26 | 22 | 43 | 0 | 47 | 0 | 847 |
 
 ## Release 资产
 
@@ -76,14 +76,14 @@ x install lazyjournal
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/lazyjournal) 上共有 **19** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/lazyjournal) 上共有 **18** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Debian unstable | `0.8.6` | 🪦 legacy |
+| Debian unstable | `0.8.7` | ✅ latest |
 | Debian 14 | `0.8.6` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.8.6` | ⚠️ outdated |
+| Homebrew | `0.8.7` | ✅ latest |
+| Nix unstable | `0.8.7` | ✅ latest |
 
 ## 改进这些数据
 
@@ -94,4 +94,4 @@ lazyjournal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T07:03:56Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T07:16:38Z._
