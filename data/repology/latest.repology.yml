@@ -1,3 +1,17 @@
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: lazyjournal
+  binnames:
+    - lazyjournal
+  visiblename: lazyjournal
+  version: 0.8.7
+  origversion: 0.8.7-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - fierroviejo@fierroviejo.com
+  categories:
+    - admin
 - repo: alt_p11
   srcname: lazyjournal
   binnames:
@@ -60,20 +74,6 @@
   binnames:
     - lazyjournal
   visiblename: lazyjournal
-  version: 0.8.6
-  origversion: 0.8.6-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - fierroviejo@fierroviejo.com
-  categories:
-    - admin
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: lazyjournal
-  binnames:
-    - lazyjournal
-  visiblename: lazyjournal
   version: 0.8.7
   origversion: 0.8.7-1
   status: newest
@@ -82,8 +82,8 @@
     - fierroviejo@fierroviejo.com
   categories:
     - admin
-- repo: devuan_unstable
-  subrepo: unstable/main
+- repo: debian_unstable
+  subrepo: sid/main
   srcname: lazyjournal
   binnames:
     - lazyjournal
@@ -214,8 +214,8 @@
     - MIT
   categories:
     - System/Servers
-- repo: ubuntu_27_04_proposed
-  subrepo: tenacious-proposed/universe
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: lazyjournal
   binnames:
     - lazyjournal
