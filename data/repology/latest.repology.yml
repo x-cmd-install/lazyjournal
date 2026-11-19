@@ -1,17 +1,3 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: lazyjournal
-  binnames:
-    - lazyjournal
-  visiblename: lazyjournal
-  version: 0.8.7
-  origversion: 0.8.7-1
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - fierroviejo@fierroviejo.com
-  categories:
-    - admin
 - repo: alt_p11
   srcname: lazyjournal
   binnames:
@@ -84,6 +70,20 @@
     - admin
 - repo: debian_unstable
   subrepo: sid/main
+  srcname: lazyjournal
+  binnames:
+    - lazyjournal
+  visiblename: lazyjournal
+  version: 0.8.7
+  origversion: 0.8.7-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - fierroviejo@fierroviejo.com
+  categories:
+    - admin
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: lazyjournal
   binnames:
     - lazyjournal
@@ -174,9 +174,9 @@
   binnames:
     - lazyjournal
   visiblename: lazyjournal
-  version: 0.8.6
-  origversion: 0.8.6-1
-  status: outdated
+  version: 0.8.7
+  origversion: 0.8.7-1
+  status: newest
   maintainers:
     - team+pkg-go@tracker.debian.org
     - fierroviejo@fierroviejo.com
