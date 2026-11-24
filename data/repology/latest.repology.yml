@@ -116,9 +116,9 @@
   binnames:
     - lazyjournal
   visiblename: lazyjournal
-  version: 0.8.6
-  origversion: 0.8.6-1
-  status: outdated
+  version: 0.8.7
+  origversion: 0.8.7-1
+  status: newest
   maintainers:
     - team+pkg-go@tracker.debian.org
     - fierroviejo@fierroviejo.com
