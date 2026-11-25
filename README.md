@@ -14,14 +14,14 @@ x install lazyjournal
 
 ## Code insight
 
-Total: **13,970** lines of code across **19** files in the top 5 languages.
+Total: **13,935** lines of code across **19** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 13,475 | 1,222 | 779 | 7 |
-| Yaml | 206 | 35 | 4 | 6 |
+| Go | 13,442 | 1,207 | 787 | 7 |
+| Yaml | 200 | 37 | 4 | 6 |
 | Makefile | 97 | 6 | 48 | 1 |
-| Sh | 82 | 2 | 15 | 3 |
+| Sh | 86 | 5 | 15 | 3 |
 | Dockerfile | 55 | 4 | 15 | 2 |
 
 ## Source
@@ -33,7 +33,7 @@ Total: **13,970** lines of code across **19** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.8.7` (2026-11-05)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-25
 - **Assets in release**: 14
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **13,970** lines of code across **19** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 45 · **Open PRs**: 1 · **Closed issues**: 47 · **Open issues**: 0 · **Commits**: 910
+- **Releases**: 24 · **Merged PRs**: 46 · **Open PRs**: 0 · **Closed issues**: 47 · **Open issues**: 0 · **Commits**: 925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 16 | 1 | 1 | 0 | 40 |
-| last60d | 2026-09-25 | 1 | 18 | 1 | 4 | 0 | 64 |
-| 90d | 2026-08-26 | 1 | 19 | 1 | 5 | 0 | 65 |
-| last180d | 2026-05-28 | 1 | 22 | 1 | 8 | 0 | 68 |
-| 360d | 2025-11-29 | 6 | 40 | 1 | 20 | 0 | 319 |
-| last720d | 2024-12-04 | 20 | 45 | 1 | 46 | 0 | 836 |
+| 30d | 2026-10-26 | 1 | 15 | 0 | 1 | 0 | 54 |
+| last60d | 2026-09-26 | 1 | 19 | 0 | 4 | 0 | 78 |
+| 90d | 2026-08-27 | 1 | 20 | 0 | 5 | 0 | 79 |
+| last180d | 2026-05-29 | 1 | 23 | 0 | 8 | 0 | 82 |
+| 360d | 2025-11-30 | 6 | 41 | 0 | 20 | 0 | 333 |
+| last720d | 2024-12-05 | 20 | 46 | 0 | 46 | 0 | 851 |
 
 ## Release assets
 
@@ -74,17 +74,6 @@ Total: **13,970** lines of code across **19** files in the top 5 languages.
 | [lazyjournal-0.8.7.tar.gz](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7.tar.gz) | 3.1 MiB | `native/unknown` |
 | [lazyjournal-0.8.7.tar.gz.asc](https://github.com/Lifailon/lazyjournal/releases/download/0.8.7/lazyjournal-0.8.7.tar.gz.asc) | 833 B | `other` |
 
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/lazyjournal). **9** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.8.7` | ✅ latest |
-| Debian 14 | `0.8.7` | ✅ latest |
-| Homebrew | `0.8.7` | ✅ latest |
-| Nix unstable | `0.8.7` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for lazyjournal lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lazyjournal` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -94,4 +83,4 @@ Install metadata for lazyjournal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:05:45Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:23:19Z._
