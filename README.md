@@ -14,13 +14,13 @@ x install lazyjournal
 
 ## Code insight
 
-Total: **13,935** lines of code across **19** files in the top 5 languages.
+Total: **13,951** lines of code across **19** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 13,442 | 1,207 | 787 | 7 |
+| Go | 13,438 | 1,207 | 788 | 7 |
 | Yaml | 200 | 37 | 4 | 6 |
-| Makefile | 97 | 6 | 48 | 1 |
+| Makefile | 117 | 9 | 53 | 1 |
 | Sh | 86 | 5 | 15 | 3 |
 | Dockerfile | 55 | 4 | 15 | 2 |
 
@@ -33,27 +33,27 @@ Total: **13,935** lines of code across **19** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.8.7` (2026-11-05)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,455 · **Forks**: 39 · **Open issues**: 47 · **Contributors**: 12
+- **Stars**: 1,456 · **Forks**: 39 · **Open issues**: 48 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 46 · **Open PRs**: 0 · **Closed issues**: 47 · **Open issues**: 0 · **Commits**: 932
+- **Releases**: 24 · **Merged PRs**: 46 · **Open PRs**: 0 · **Closed issues**: 47 · **Open issues**: 1 · **Commits**: 938
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 13 | 0 | 1 | 0 | 61 |
-| last60d | 2026-09-27 | 1 | 19 | 0 | 4 | 0 | 85 |
-| 90d | 2026-08-28 | 1 | 20 | 0 | 5 | 0 | 86 |
-| last180d | 2026-05-30 | 1 | 23 | 0 | 8 | 0 | 89 |
-| 360d | 2025-12-01 | 6 | 41 | 0 | 20 | 0 | 340 |
-| last720d | 2024-12-06 | 20 | 46 | 0 | 46 | 0 | 858 |
+| 30d | 2026-10-28 | 1 | 12 | 0 | 1 | 1 | 67 |
+| last60d | 2026-09-28 | 1 | 19 | 0 | 4 | 1 | 91 |
+| 90d | 2026-08-29 | 1 | 20 | 0 | 4 | 1 | 92 |
+| last180d | 2026-05-31 | 1 | 23 | 0 | 8 | 1 | 95 |
+| 360d | 2025-12-02 | 5 | 41 | 0 | 20 | 1 | 346 |
+| last720d | 2024-12-07 | 20 | 46 | 0 | 46 | 1 | 862 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for lazyjournal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:23:01Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:56:33Z._
